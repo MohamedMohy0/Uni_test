@@ -67,8 +67,8 @@ General_Geo_level1={
 COURSES_BY_LEVEL_AND_DEPARTMENT = {
     1: {
         "العلوم الطبيعية": (list(General_Phy_level1.keys())),
-        "علوم الأرض": list(General_Bio_level1.keys()),
-        "العلوم البيولوجية": list(General_Geo_level1.keys())
+        "علوم الأرض": list(General_Geo_level1.keys()),
+        "العلوم البيولوجية": list(General_Bio_level1.keys())
 
     },
     2: {
